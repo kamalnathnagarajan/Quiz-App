@@ -36,3 +36,17 @@ The aim of this project is to provide a customizable, beginner-friendly quiz too
 │
 ├── Quiz.java         # Main Java source file
 ├── README.md         # Project documentation
+Quiz
+
+What is the largest planet in our solar system?
+1. Earth
+2. Mars
+3. Jupiter
+4. Saturn
+Enter your answer (1-4): 3
+Correct!
+Your score: 1 out of 1
+
+---
+
+Let me know if you want it as a downloadable `.md` or `.txt` file, or if you'd like it customized for your GitHub repository or portfolio.
